@@ -18,7 +18,7 @@
 
 工作原理
 
-抓色器远程连接手机截图，找到坐标点和颜色值，作业部落上有使用教程 https://www.zybuluo.com/miniknife/note/629913 。
+抓色器远程连接手机截图，找到坐标点和颜色值，作业部落上有使用教程 https://www.touchsprite.com/docs/4955 。
 
 通过 Lua 实现模拟点击
 
